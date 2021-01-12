@@ -15,6 +15,7 @@ AllowShortLoopsOnASingleLine: false
 AlwaysBreakAfterReturnType: None
 AlwaysBreakBeforeMultilineStrings: false
 AlwaysBreakTemplateDeclarations: true
+BasedOnStyle: Google
 BinPackArguments: true
 BinPackParameters: true
 BreakBeforeBinaryOperators: All
